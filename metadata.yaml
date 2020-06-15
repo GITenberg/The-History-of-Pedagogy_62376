@@ -1,16 +1,21 @@
 _repo: The-History-of-Pedagogy_62376
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Payne, William Harold
     gutenberg_agent_id: '51917'
     url: http://www.gutenberg.org/2009/agents/51917
+covers:
+- cover_type: archival
+  image_path: 62376-h/images/cover.jpg
 creator:
   author:
     agent_name: Compayré, Gabriel
     gutenberg_agent_id: '51916'
     url: http://www.gutenberg.org/2009/agents/51916
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62376#The-History-of-Pedagogy
 gutenberg_issued: '2020-06-12'
 gutenberg_type: Text
 identifiers:
